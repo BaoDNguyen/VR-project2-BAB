@@ -9,6 +9,12 @@
 3. Bao Dien Quoc Nguyen
 
 ## Member duty
+Aditi Misra :- Asset discovery and management , scene composition , responsible for all in-game sounds.
+
+Bao Dien Quoc Nguyen:- Asset Loading and scripting , scene creation , component behavior scripting.
+
+Benjamin Paul :- Asset Loading and scripting , scene creation , component behavior scripting.
+
 
 ## The game idea
 
@@ -91,7 +97,7 @@ Features:
 
 **4. The player mask:**
 
-![Mask](figures/12.jpeg)
+![Mask](figures/12.jpg)
 
 Features:
 
@@ -102,13 +108,6 @@ Features:
 -If the mask gets depleted then there is a countdown of 5 seconds and then the mask will be available to use again.
 
 -The mask health bar is shown in the top right corner
-
-## Group Members Responsibility
-Aditi Misra :- Asset discovery and management , scene composition , responsible for all in-game sounds.
-
-Bao Dien Quoc Nguyen:- Asset Loading and scripting , scene creation , component behavior scripting.
-
-Benjamin Paul :- Asset Loading and scripting , scene creation , component behavior scripting.
 
 
 
