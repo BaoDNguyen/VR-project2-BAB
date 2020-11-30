@@ -1,7 +1,7 @@
 # VR-project2-BAB
 
 ## Video
-
+[video](https://www.youtube.com/embed/Zkk00C7KaCI)
 
 ## Group members
 1. Benjamin Paul (leader)
