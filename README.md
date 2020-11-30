@@ -89,6 +89,29 @@ Features:
 
 - The alarm zone gives information for the player to manage his move.
 
+**4. The player mask:**
+
+![Mask](figures/12.jpeg)
+
+Features:
+
+-The player mask can be toggled by pressing the 'Q' button.
+
+-Once the mask is on the player health will not be damaged if they come in contact with the virus.
+
+-If the mask gets depleted then there is a countdown of 5 seconds and then the mask will be available to use again.
+
+-The mask health bar is shown in the top right corner
+
+## Group Members Responsibility
+Aditi Misra :- Asset discovery and management , scene composition , responsible for all in-game sounds.
+
+Bao Dien Quoc Nguyen:- Asset Loading and scripting , scene creation , component behavior scripting.
+
+Benjamin Paul :- Asset Loading and scripting , scene creation , component behavior scripting.
+
+
+
 ## References
 
 - Monster: Blender, Unity.
